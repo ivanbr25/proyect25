@@ -1,3 +1,3 @@
-# proyecto25
-  Prueba-
-Este es un proyecto de prueba con GIT
+# proyect25
+  Test-
+This is a proyect test whit GIT
